@@ -7,3 +7,7 @@
 .faq-answer {
     text-align: justify;
 }
+
+#main .button:hover {
+    color: #ffffff !important;
+}
