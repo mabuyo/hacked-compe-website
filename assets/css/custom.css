@@ -1,0 +1,12 @@
+#main .apply {
+    background-color:#16703d;
+    color:white !important;
+}
+
+.faq-question {
+    text-align: center;
+}
+
+.faq-answer {
+    text-align: justify;
+}
