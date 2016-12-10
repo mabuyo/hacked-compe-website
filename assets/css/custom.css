@@ -1,10 +1,12 @@
 #main .apply {
-    background-color:#16703d;
+    background-color: #16703d;
     color:white !important;
 }
 
 .faq-question {
     text-align: center;
+    color: #16703d;
+    font-weight: bold;
 }
 
 .faq-answer {
