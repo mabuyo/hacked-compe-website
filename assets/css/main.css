@@ -3364,7 +3364,7 @@
 		}
 
 		#main a:hover {
-			color: #074F57;
+			color: #5aae8d;
 		}
 
 		#main strong, #main b {
@@ -3407,7 +3407,7 @@
 			#main input[type="button"]:hover,
 			#main button:hover,
 			#main .button:hover {
-				background-color: #074F57;
+				background-color: #5aae8d;
 			}
 
 			#main input[type="submit"]:active,
@@ -3441,7 +3441,7 @@
 				#main input[type="button"].special:hover,
 				#main button.special:hover,
 				#main .button.special:hover {
-					background-color: #074F57;
+					background-color: #5aae8d;
 				}
 
 				#main input[type="submit"].special:active,
